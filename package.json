@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Tenchuu",
+	"description": "I´m running slow slow slow, with nowhere to go.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
